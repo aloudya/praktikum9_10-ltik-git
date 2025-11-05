@@ -3,7 +3,7 @@ import numpy as np
 # rata-rata, hari dgn keuntungan tertinggi, hari dgn kerugian tertinggi
 
 data = np.array([50000, 75000, -20000, 100000, 25000, -5000, 80000,
-                3000, 15000, 7500, 90000, 43000, -12000, 67000])
+                3000, 15000, 7500, 90000, 43000, -12000, 65000])
 
 avg = np.mean(data)
 top = np.max(data)

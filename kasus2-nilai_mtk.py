@@ -1,6 +1,7 @@
 import numpy as np
 
 # urut nilai dari besar ke kecil dan 5 nilai terbesar
+# urut
 
 data = np.array([88, 92, 79, 93, 85, 91, 87, 95, 90, 89,
                 32, 54, 54, 33, 90, 90, 43, 89, 90, 70,
